@@ -23,7 +23,7 @@ import com.example.demo.security.UserDetailsServiceImpl;
 @RestController
 @RequestMapping("/api/user")
 public class UserController {
-	
+	//test
 	@Autowired
 	private UserRepository userRepository;
 	
